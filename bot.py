@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKe
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ========== КОНФИГ ==========
-TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
+TOKEN = "8797319361:AAF2EtbXLPkRsNSzS3p98I3rHPHDbBf1zvs"
 AI_API_KEY = "AQ.Ab8RN6JJM_6qcVPk1Imbq5TbGDaveAUsO07Op9EdplozH6pQBA"
 
 # Лимит сообщений на пользователя
